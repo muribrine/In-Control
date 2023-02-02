@@ -1,2 +1,2 @@
-# In-Control
+# In Control
 A productivity and note taking app
